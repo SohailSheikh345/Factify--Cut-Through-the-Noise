@@ -55,7 +55,7 @@ Factify is built to:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/factify.git
+git clone https://github.com/SohailSheikh345/Factify-Cut-Through-the-Noise.git
 ```
 
 ### 🔧 Backend
