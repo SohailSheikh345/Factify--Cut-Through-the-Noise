@@ -38,28 +38,24 @@ Authentication: JWT-based auth
 📱 Clean, modern UI (Glassmorphism design)
 🔐 User authentication & history tracking
 
-**Installation**
-# Clone the repo
-git clone https://github.com/your-username/factify.git
+## 🚀 Installation
 
-# Go to backend
+```bash
+git clone https://github.com/your-username/factify.git
+```
+
+### 🔧 Backend
+
+```bash
 cd backend
 npm install
 npm run dev
+```
 
-# Go to frontend
-cd ../frontend
+### 🎨 Frontend
+
+```bash
+cd ../Frontend
 npm install
 npm run dev
-# Clone the repo
-git clone https://github.com/your-username/factify.git
-
-# Go to backend
-cd backend
-npm install
-npm run dev
-
-# Go to frontend
-cd ../frontend
-npm install
-npm run dev
+```
